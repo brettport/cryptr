@@ -9,4 +9,4 @@ declare class Cryptr {
     decrypt(value: string): string;
 }
 
-export = Cryptr;
+export default Cryptr;
